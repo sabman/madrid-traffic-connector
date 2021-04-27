@@ -22,7 +22,7 @@
     "object-hash": "^1.2.0",
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {
     "serverless": "^1.67.0"
