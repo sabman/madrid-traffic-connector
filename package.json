@@ -20,7 +20,7 @@
     "cartodb": "github:cartodb/cartodb-nodejs#master",
     "minimist": "^1.2.0",
     "object-hash": "^1.2.0",
-    "request": "^2.83.0",
+    "request": "^2.88.2",
     "request-promise-native": "^1.0.5",
     "xml2js": "^0.4.19"
   },
